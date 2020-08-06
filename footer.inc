@@ -3,7 +3,7 @@
     <div class="row myrowmenu align-items-center">
       <div class="col-3">
         <p>ALBERT LOPES
-        <a href="https://www.instagram.com/_albiche_/"> <img src="img/logo/logo-instagram.png" alt=""> </a> </p>
+        
       </div>
       <div class="col-9">
         <nav class="menu">
